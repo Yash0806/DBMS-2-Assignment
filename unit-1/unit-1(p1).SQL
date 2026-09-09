@@ -2,7 +2,7 @@ SET SERVEROUTPUT ON;
 DECLARE
     v_message VARCHAR2(100) := 'Welcome to PL/SQL!';
     v_name VARCHAR2(50) := 'Yash';
-    v_roll_no NUMBER := 7;
+    v_roll_no NUMBER := 10;
 BEGIN
     DBMS_OUTPUT.PUT_LINE('Name: ' || v_name || ', Roll Number: ' || v_roll_no);
     DBMS_OUTPUT.PUT_LINE(v_message);
