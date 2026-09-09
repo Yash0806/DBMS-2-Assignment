@@ -14,7 +14,7 @@ COMMIT;
 SET SERVEROUTPUT ON;
 DECLARE
    
-    v_name VARCHAR2(50) := 'Yash Chauhan';
+    v_name VARCHAR2(50) := 'Yash Gajjar';
    
     c_bonus_rate CONSTANT NUMBER := 0.1; 
     
