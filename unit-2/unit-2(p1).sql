@@ -1,5 +1,5 @@
 DECLARE
-    v_name VARCHAR2(50) := 'Yash Chauhan';
+    v_name VARCHAR2(50) := 'Yash Gajjar';
     v_roll NUMBER := 7;
     m1 NUMBER := 85; m2 NUMBER := 72; m3 NUMBER := 90; m4 NUMBER := 65; m5 NUMBER := 78;
     v_total NUMBER; v_pct NUMBER; v_grade VARCHAR2(2); v_class VARCHAR2(20);
